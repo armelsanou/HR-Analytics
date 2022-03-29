@@ -1,0 +1,13 @@
+name: HR-Analytics
+title: HR-Analytics
+username:
+account: armel-sanou
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5943316
+bundleId: 5731854
+url: https://armel-sanou.shinyapps.io/HR-Analytics/
+when: 1648369043.45751
+lastSyncTime: 1648369043.45754
+asMultiple: FALSE
+asStatic: FALSE
